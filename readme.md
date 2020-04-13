@@ -26,7 +26,7 @@ The following are required to function properly.
 **_Step : 1_**
 
 ```
-git clone https://github.com/sagarankoliya/realtime-private-chat-nodejs-socketio-vuejs-laravel.git
+git clone https://github.com/hizam-omar/realtime-private-chat-nodejs-socketio-vuejs-laravel.git
 ```
 
 **_Step : 2_**
