@@ -121,7 +121,7 @@ Open Second **Terminal / CMD** Go to project directory
 php artisan serve
 ```
 
-Open http://127.0.0.1:8000 url in multipal browser
+Open http://127.0.0.1:8000 url in multiple browser
 
 
 **Login with below Users**
